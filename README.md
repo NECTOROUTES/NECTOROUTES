@@ -56,8 +56,8 @@ We are still on building and testing stage
 
 ## **Authors**
 The Authors include
-- Sheila Nabuduwa
-- Aaron Masuba
+- Sheila Nabuduwa_BRAC University
+- Aaron Masuba_BRAC University
 
 ## **License**
 Nectoroutes is Open Source and Licenced under Apache Licences
