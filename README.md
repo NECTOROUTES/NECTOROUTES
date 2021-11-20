@@ -10,10 +10,22 @@ They had no access to educational resources that they could use to keep up with 
 Delivering educational materials in the vicinity of student homes by schools is possible as some students from the same school reside near each other but the main problem has been that data analytics and affordable technological dashboards to easily refine and visualize which students can be found in a particular location adds up to a big procurement and delivery gap worsening the [learning crisis](https://www.worldbank.org/en/publication/wdr2018).
 
 ## **Our Solution**
-Nectoroutes is a one stop application that will refine location data of students so as to create centralised delivery plans by schools in the learners' villages and homes. Nectoroutes shall feature artificial intelligence through the IBM Watson Studio algorithms of data refinery to create visualizations and profiles of best centralised localised village spots that schools shall use in order to increase maximum efficiency. This will also help schools to effectively plan how to deliver future lessons based on material availability and delivery logistics to learners in their homes thereby reducing costs of material reception by parents due to delocalisation and decentralization of their location data. 
+*Nectoroutes is a one stop application that will refine location data of students so as to create centralised delivery plans by schools in the learners' villages and homes. Nectoroutes shall feature artificial intelligence through the IBM Watson Studio algorithms of data refinery to create visualizations and profiles of best centralised localised village spots that schools shall use in order to increase maximum efficiency. This will also help schools to effectively plan how to deliver future lessons based on material availability and delivery logistics to learners in their homes thereby reducing costs of material reception by parents due to delocalisation and decentralization of their location data.* 
 
 ## **How it works**
 ### ***The solution Flow Diagram***
 ![Nectoroutes Solution flow daigram drawio](https://user-images.githubusercontent.com/94690591/142727187-bbec15a4-b6c3-4534-86fd-3b7838e17e88.png)
-### ***The environment flow IBM Cloud***
+### ***The environment flow IBM Watson***
 ![Environment Flow diagram](https://user-images.githubusercontent.com/94690591/142727285-d6e6117e-2174-4ceb-a6bf-1b858a1bfc7c.png)
+
+Nectoroutes uses location data to create a centralised points that schools can use to deliver learning resources to learners.
+The capabilities such as Machine learning, Watson studio and the IBM SPSS Modeler; Nectoroutes adds a value chain of accurate predictions in future demand and resource availability such that schools can ensure resilience and effectiveness while planning for their learners.
+The distribution chains can be optimised to reduce costs on both the parents and the schools sides and this is also backed up by increasing parents' confidence in the schools and institutions that are working to see that learners have access to learning resources and materials.
+The intelligent systems ensure a balance and qualitative analysis in resource distribution which is the main challenge affecting many to ensure that all learners have access to equitable and quality education.
+
+Our Model features real World AI techniques from the building process, testing, evaluation and deployment. Artificial Intelligence and Data science are directly and intrinsically linked and this presents to us the time when to best help learners acquire education such that they can be elevated from the vicious cycle of ignorance.
+
+![Road map of Nectoroutes](https://user-images.githubusercontent.com/94690591/142727419-9115e9db-ef5a-4c97-bd6a-5a580e552fda.png)
+
+## **Remarks**
+Nectoroutes is a necessity and an important one stop point that will improve educational resource delivery by the schools to the homes of learners  with maximum efficiency. This will open opportunities for learners like Stency and Solomon to get started with their education amidst the pandemic where a lot of uncertainty still shadows the official physical schools openings especially in places facing electronic study equipment crisis and unaffordable internet charges.
