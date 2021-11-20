@@ -48,6 +48,7 @@ A demo version can also be found here
 - Node-JS and cloudant
 - Object Storage
 - IBM Watson Studio
+- Kubernetes
 - Figma UI
 
 ## **Versioning**
