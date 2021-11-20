@@ -32,5 +32,6 @@ Nectoroutes is a necessity and an important one stop point that will improve edu
 
 ## **Short Description**
 #*The visualizations and refined data obtained by the schools can therefore be linked with Nectoroutes Platform which uses centralised locations to ensure delivery of learning resources to particular destinations at low cost. Nectouroutes envisions collaborating with existing delivery service providers such as Uber, safe Boda to link and connect destinations of students. The model of Nectouroutes can easily be scalable as it does not require schools to provide location information of students again but this is obtaineed directly from the cloud and the riders can efficiently deliver multiple school resources for students residing in particular locations. as well, reception of completed packages is easily done as Nectoroutes retraces back the initial directions and centralises the gathered pavkages to be taken back into schools. Nectoroutes shall open doors for unimaginable capabilities especially through connecting routes and destinations amidst the crisis*
-[Uploading NECTOROUTES UI Designs.pdf…]()
+
+[NECTOROUTES DELIVERY.pdf](https://github.com/NECTOROUTES/NECTOROUTES/files/7575043/NECTOROUTES.DELIVERY.pdf)
 
