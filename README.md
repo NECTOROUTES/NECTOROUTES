@@ -1,4 +1,4 @@
-# **Project Nectoroutes**
+# **PROJECT NECTOROUTES**
 ### ***Closing the education resource delivery gap***
 ## **Our Story**
 *Stency and Solomon are two of the four children in a single mother parented home that were able to exhibit exceptional abilities to secure education in 2 different private schools that provide a better education away from home problems. At the peak of March, 2020 when schools were closed in Uganda, these 2 underprivileged children lost hope of ever getting to study again. 
