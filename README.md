@@ -25,6 +25,9 @@ The intelligent systems ensure a balance and qualitative analysis in resource di
 
 Our Model features real World AI techniques from the building process, testing, evaluation and deployment. Artificial Intelligence and Data science are directly and intrinsically linked and this presents to us the time when to best help learners acquire education such that they can be elevated from the vicious cycle of ignorance.
 
+## **Solution Road Map**
+![Nectoroutes Road map](https://user-images.githubusercontent.com/94690591/142743092-7084c8bc-6bd7-486c-a96e-1ef6b05df513.png)
+
 ![Road map of Nectoroutes](https://user-images.githubusercontent.com/94690591/142727419-9115e9db-ef5a-4c97-bd6a-5a580e552fda.png)
 
 ## **Remarks**
