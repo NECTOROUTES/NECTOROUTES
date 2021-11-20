@@ -41,6 +41,26 @@ A demo version can also be found here
 [NECTOROUTES UI Designs.pdf](https://github.com/NECTOROUTES/NECTOROUTES/files/7575043/NECTOROUTES.DELIVERY.pdf)
 
 ## **Built with**
-Nectoroutes is built with
-- 
+*Nectoroutes is built with the following*
+- Node-JS and cloudant
+- Object Storage
+- IBM Watson Studio
+- Figma UI
+
+## **Versioning**
+We are still on building and testing stage
+
+## **Authors**
+The Authors include
+- Sheila Nabuduwa
+- Aaron Masuba
+
+## **License**
+Nectoroutes is Open Source and Licenced under Apache Licences
+
+## **Acknowldgements**
+We wish to extend our acknowldgements to the following
+- IBM Watson and IBM Cloud team
+- SAMSUNG 
+- Call for Code and David Clarck Cause
 
